@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Austin Owuor!
+🚀 Data Scientist | AI Researcher | ML Engineer | Social Media Analytics Enthusiast
 
-<!--
-**austinowuor/austinowuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about using AI and data science to bridge educational and financial equity gaps, especially in low- and middle-income countries (LMICs). With over 5 years of experience, I specialize in:
 
-Here are some ideas to get you started:
+🔹 Machine Learning & AI – Large Language Models (LLMs), NLP, Recommender Systems, Graph Neural Networks (GNNs)
+🔹 Education & Research – Learning Analytics, A/B Testing, Randomized Control Trials (RCTs)
+🔹 Social Media Analytics – Analyzing educational engagement trends from social media data to drive campaigns
+🔹 Software Development – Python, R, SQL, PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 What I'm Working On
+Finlingo – NLP-powered conversational AI for financial literacy in English & Swahili
+LLMs for Low-Resource Languages – Optimizing generative AI for African dialects
+AI for Education – Building personalized learning models to improve engagement
+Social Media Research-ML model for detecting misinformation in SM.
+
+
+💡 Always open to collaborations on AI, ML, education technology, and social media data analytics. Let’s innovate together! 🚀
