@@ -1,5 +1,5 @@
 👋 Hi, I'm Austin Owuor!
-🚀 Data Scientist | AI Researcher | ML Engineer | Social Media Analytics Enthusiast
+🚀Lecturer| Data Scientist | AI Researcher | ML Engineer | Social Media Analytics Enthusiast
 
 I'm passionate about using AI and data science to bridge educational and financial equity gaps, especially in low- and middle-income countries (LMICs). With over 5 years of experience, I specialize in:
 
