@@ -35,12 +35,6 @@ I specialize in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=austin-owuor&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austin-owuor&layout=compact&theme=default" />
-</p>
 
 ---
 
