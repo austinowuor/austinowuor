@@ -18,7 +18,7 @@ I'm passionate about using **AI**, **cloud technologies**, and **data science** 
 I specialize in:
 
 - **☁️ Cloud Architecture:** Azure, AWS, GCP — Secure, scalable systems for AI and data
-- **📚 Education & Mentoring:** Teaching Cloud, AI, MLOps, and Data Engineering at USIU-Africa
+- **📚 Education & Mentoring:** Teaching Cloud, AI, IS, Data Science, MLOps, and Data Engineering at DAYSTAR UNIVERSITY
 - **🤖 Machine Learning & NLP:** LLMs, Few-Shot Learning, GNNs, Recommenders
 - **📈 Social Media Analytics:** Detecting misinformation, engagement trends, and digital behavior
 - **🛠️ Tools:** Python, SQL, Spark, PyTorch, dbt, Terraform, Airflow
